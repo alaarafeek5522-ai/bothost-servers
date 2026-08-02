@@ -17,6 +17,15 @@
       "user": "root",
       "password": "CODE-U1V2-W3X4",
       "botCount": 0
+    },
+    {
+      "id": 3,
+      "name": "Railway Server 3",
+      "host": "nozomi.proxy.rlwy.net",
+      "port": 47453,
+      "user": "root",
+      "password": "CODE-U1V2-W3X4",
+      "botCount": 0
     }
   ]
 }
