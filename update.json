@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "latest_version": "1.0.0",
+  "force_update": false,
+  "stopped": false,
+  "stop_message": "⚠️ التطبيق متوقف مؤقتاً للصيانة",
+  "update_message": "🚀 يوجد تحديث جديد! حمله الآن",
+  "download_url": "https://github.com/alaarafeek5522-ai/bothost_pro/releases",
+  "telegram_channel": "https://t.me/ahrgq",
+  "support_url": "https://t.me/ahrgq"
+}
