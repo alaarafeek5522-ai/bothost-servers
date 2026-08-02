@@ -1,0 +1,22 @@
+{
+  "servers": [
+    {
+      "id": 1,
+      "name": "Railway Server 1",
+      "host": "sakura.proxy.rlwy.net",
+      "port": 44762,
+      "user": "root",
+      "password": "CODE-U1V2-W3X4",
+      "botCount": 0
+    },
+    {
+      "id": 2,
+      "name": "Railway Server 2",
+      "host": "sakura.proxy.rlwy.net",
+      "port": 49749,
+      "user": "root",
+      "password": "CODE-U1V2-W3X4",
+      "botCount": 0
+    }
+  ]
+}
